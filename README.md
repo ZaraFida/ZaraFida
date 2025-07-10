@@ -1,4 +1,5 @@
-![logo](<h1 align="center">Hi 👋, I'm Zara Fida</h1>
+![logo](https://github.com/ZaraFida/cpu-sceduling-simulator/blob/main/Gemini_Generated_Image_ldp8u1ldp8u1ldp8.png)
+<h1 align="center">Hi 👋, I'm Zara Fida</h1>
 <h3 align="center">A passionate front and backend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?semt=ais_hybrid&w=740"
 
