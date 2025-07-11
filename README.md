@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/za.html](http://127.0.0.1:5500/za.html)
+- 👨‍💻 All of my projects are available at  [https://zarafida.github.io/My-Personal-Profile/]
 
 - 💬 Ask me about **react,vue,etc**
 
