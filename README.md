@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 All of my info related to(Education,Experience,Skills) are available at  [https://zarafida.github.io/My-Profile-Skills-Exp-Edu-/]
+
 
 - 💬 Ask me about **react,vue,etc**
 
